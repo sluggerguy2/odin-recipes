@@ -4,6 +4,11 @@ body {
 }
 
 h1 {
-    background-color: hsl(219, 79%, 80%);
     font-weight: 400;
+    text-align: center;
+}
+
+h1, h3 {
+    background-color: brown;
+    color: white;
 }
