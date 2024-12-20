@@ -4,10 +4,9 @@ body {
 }
 
 .flex-container{
-    background-color: aqua;
-    border: 2px solid blue;
+    background-color: grey;
+    border: 2px solid brown;
     display: flex;
-    padding: 12px;
 }
 
 .item{
@@ -19,6 +18,9 @@ body {
 
 .recipe-link {
     text-decoration: none;
+    margin: auto;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
 }
 
 h1,
