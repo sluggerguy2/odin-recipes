@@ -14,6 +14,8 @@ body {
     background-color: beige;
     height: 48px;
     margin: 4px auto;
+    flex: 1;
+    display: flex;
 }
 
 .recipe-link {
