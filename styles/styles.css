@@ -3,6 +3,24 @@ body {
     background-color: beige;
 }
 
+.flex-container{
+    background-color: aqua;
+    border: 2px solid blue;
+    display: flex;
+    padding: 12px;
+}
+
+.item{
+    border: 2px solid brown;
+    background-color: beige;
+    height: 48px;
+    margin: 4px auto;
+}
+
+.recipe-link {
+    text-decoration: none;
+}
+
 h1,
 h3 {
     background-color: brown;
@@ -25,6 +43,7 @@ button {
     color: white;
     font-size: 18px;
 }
+
 
 
 /*  * {
