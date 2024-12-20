@@ -28,18 +28,24 @@ button {
 
 .recipe-link {
     font-size: 20px;
-    text-decoration: none;
 }
 
 .ziti {
     outline: 2px solid red;
-    margin: 0 auto;
+    margin: 40%;
+    color: red
 }
 
 .brie {
     outline: 2px dotted black;
-    margin: 100px 100px auto;
+    margin: 18%;
     padding: 10px;
+    color: green;
+    font-family: 'Times New Roman', Verdana, sans-serif;
+}
+
+.orange{
+    color: orange;
 }
 
 /*  * {
