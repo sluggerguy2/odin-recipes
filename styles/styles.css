@@ -3,10 +3,13 @@ body {
 }
 
 .flex-container{
-    background-color: grey;
+    background-color: rgb(197, 179, 179);
     border: 2px solid rgb(42, 95, 165);
     display: flex;
 }
+
+
+
 
 .item{
     border: 2px solid rgb(42, 95, 165);
@@ -15,7 +18,12 @@ body {
     margin: 4px auto;
     flex: 1;
     display: flex;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    width: 120px;
+    text-align: center;
 }
+
 
 .recipe-link {
     text-decoration: none;
